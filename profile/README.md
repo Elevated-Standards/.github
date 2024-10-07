@@ -1,12 +1,7 @@
-## Hi there 👋
+# Elevated Standards
 
-<!--
+<!-- start organization badges -->
+![Total repositories](https://img.shields.io/static/v1?label=Total%20repositories&message=379&color=blue) ![Open PRs in last 30 days](https://img.shields.io/static/v1?label=Open%20PRs%20in%20last%2030%20days&message=11&color=blue) ![Merged PRs in last 30 days](https://img.shields.io/static/v1?label=Merged%20PRs%20in%20last%2030%20days&message=2&color=blue)
+<!-- end organization badges -->
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+✨ This is an organization from [@Elevated-Standards](https://github.com/Elevated-Standards)
